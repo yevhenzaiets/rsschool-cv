@@ -1,2 +1,1 @@
-# rsschool-cv
-CV_RSS
+https://github.com/yevhenzaiets/github.io/rsschool-cv/cv
