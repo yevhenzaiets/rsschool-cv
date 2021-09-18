@@ -5,8 +5,8 @@
 **Phone**: *(097)-07-38-378*  
 **Email**: *zaets.zheka14@gmail.com*  
 **GitHub**: *https://github.com/yevhenzaiets*  
-## Junior Frontend Developer
-### Skills
+## Junior Frontend Developer 
+### Skills 
 ___
 + **HTML 5.0** (semantic, cross-browser and valid code);
 + **CSS** (Flexbox, Grid);
