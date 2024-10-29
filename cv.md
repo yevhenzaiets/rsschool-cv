@@ -1,6 +1,6 @@
 # Yevhen Zaiets
 
-![Photo](https://images.app.goo.gl/HtyGRw8RsT2gjJSk9)
+![Photo](https://img.freepik.com/premium-photo/cool-cat-rapper-digital-art-illustration-generative-ai_442940-3325.jpg)
 
 ---
 
@@ -19,7 +19,7 @@
 - **CSS:** Flexbox, Grid
 - **GIT**
 - **SASS(SCSS)**
-- **JavaScript:** ES2020
+- **JavaScript:** ES2024
 - **React / Redux:** Including Hooks
 
 ---
